@@ -1,3 +1,3 @@
 # PollutionNet
 
-The datasets file contains preprocessed NO$_2$ and SO$_2$ datasets from both satellite and ground observations over the Ireland region.
+The datasets file contains preprocessed NO<sub>2</sub> and SO<sub>2</sub> datasets from both satellite and ground observations over the Ireland region.
