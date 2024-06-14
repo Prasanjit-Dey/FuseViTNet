@@ -5,3 +5,5 @@
 2. The **Proposedsed_Model** file contains the PollutionNet code for both NO<sub>2</sub> and SO<sub>2</sub>.
 
 3. The **Results** file contains the PollutionNet code for validating the model's accuracy using different percentages of the input dataset (10% to 100%).
+
+4. The **Validation_Models** file contains the code for SOTA methods.
